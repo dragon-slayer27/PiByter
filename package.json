@@ -1,0 +1,13 @@
+{
+  "name": "pi-byter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Dragon Slayer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.1",
+    "dotenv": "^10.0.0",
+    "txtgen": "^3.0.1"
+  }
+}
